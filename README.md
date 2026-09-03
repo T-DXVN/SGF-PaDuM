@@ -353,7 +353,7 @@ We thank the developers of:
 For questions or collaborations, please contact:
 
 - **Corresponding Author**: Hongbing Wang (hbwang@gznu.edu.cn)
-- **First Author**: Junliang Tao
+- **Second Author**: Junliang Tao
 
 ## 📄 License
 
