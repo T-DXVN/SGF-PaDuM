@@ -329,11 +329,10 @@ SGF-PaDuM/
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{wang2025sgfpadum,
+@article{wang2026sgfpadum,
   title={SGF-PaDuM: Stochastic Gated Fusion and Robust Training for Time Series Forecasting},
   author={Wang, Hongbing and Tao, Junliang and Cao, Li and Xie, Chenhao and Li, Jian and Zhou, Liang},
-  journal={arXiv preprint},
-  year={2025},
+  year={2026},
   note={Under Review}
 }
 ```
